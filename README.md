@@ -4,7 +4,7 @@
 
 ## Sobre mim: 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e sempre em busca de aprender mais. Tenho conhecimento em Java, Python e conceitos de Inteligência Artificial.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e sempre em busca de aprender mais. Tenho conhecimento em .NET , C#, SQL , Java , Python e conceitos de Inteligência Artificial.
 Atualmente, estou focado em desenvolver projetos que me ajudem a aplicar o que aprendo e a construir uma base sólida para minha carreira na área de desenvolvimento de software.
 
 🧠 Interesso-me especialmente por: 
@@ -15,8 +15,22 @@ Atualmente, estou focado em desenvolver projetos que me ajudem a aplicar o que a
 
 Estou em busca de uma oportunidade de estágio ou primeiro emprego na área de tecnologia, onde eu possa contribuir e crescer profissionalmente.
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python&perline=20" />
+<img src="https://skillicons.dev/icons?i=java,python,cs,dotnet,git&perline=20" />
 </div>
+
+--------------
+## 📌 Projetos em Destaque
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Vitor-Dias&repo=Chat-Bot-Furia&theme=dark)](https://github.com/Joao-Vitor-Dias/Chat-Bot-Furia)
+
+## 📊 GitHub Stats
+
+![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Vitor-Dias&show_icons=true&theme=dark)
+
+## 🧠 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vitor-Dias&layout=compact&theme=dark)
+
 
 --------
 
