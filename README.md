@@ -15,7 +15,7 @@ Atualmente, estou focado em desenvolver projetos que me ajudem a aplicar o que a
 
 Estou em busca de uma oportunidade de estágio ou primeiro emprego na área de tecnologia, onde eu possa contribuir e crescer profissionalmente.
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cs,git&perline=20" />
+<img src="https://skillicons.dev/icons?i=java,python,cs,git,github,html,css,js,mysql&perline=20" />
 </div>
 
 --------------
