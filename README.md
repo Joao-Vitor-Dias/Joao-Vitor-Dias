@@ -21,7 +21,7 @@ Estou em busca de uma oportunidade de estágio ou primeiro emprego na área de t
 --------------
 ## 📌 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Vitor-Dias&repo=Chat-Bot-Furia&theme=dark)](https://github.com/Joao-Vitor-Dias/Chat-Bot-Furia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Vitor-Dias&repo=Habit-Tracker&theme=dark)](https://github.com/Joao-Vitor-Dias/Habit-Tracker)
 
 ## 📊 GitHub Stats
 
