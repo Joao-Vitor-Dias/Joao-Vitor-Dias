@@ -19,24 +19,22 @@ Estou em busca de uma oportunidade de estágio ou primeiro emprego na área de t
 </div>
 
 --------------
-## 📌 Projetos em Destaque
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Vitor-Dias&repo=Habit-Tracker&theme=dark)](https://github.com/Joao-Vitor-Dias/Habit-Tracker)
 
 ## 📊 GitHub Stats
 
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Vitor-Dias&show_icons=true&theme=dark)
-
-## 🧠 Linguagens Mais Usadas
-
+![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Vitor-Dias&show_icons=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Vitor-Dias&layout=compact&theme=dark)
 
+## 📌 Projetos em Destaque
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Vitor-Dias&repo=Habit-Tracker&theme=dark)](https://github.com/Joao-Vitor-Dias/Habit-Tracker)
 
 --------
 
 ## Conquistas:
 
 * Certificado GCP
+* Certificado AWS Academy
 * Certifica AZ-900 (certificado pelo Senai, ainda não fiz a prova da microsoft)
 
 --------
