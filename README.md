@@ -1,21 +1,19 @@
-## Olá, sou o Joao Vitor, um recém-iniciado nesta mundo da programação procurando pela primeira oportunidade de emprego
+## Olá, sou o Joao Vitor, desenvolvedor back-end
 
 ----------------
 
 ## Sobre mim: 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e sempre em busca de aprender mais. Tenho conhecimento em .NET , C#, SQL , Java , Python e conceitos de Inteligência Artificial.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e sempre em busca de aprender mais. Tenho conhecimento em projetos de arquiteturas de microsserviços em Java.
 Atualmente, estou focado em desenvolver projetos que me ajudem a aplicar o que aprendo e a construir uma base sólida para minha carreira na área de desenvolvimento de software.
 
 🧠 Interesso-me especialmente por: 
   * Desenvolvimento backend
-  * Aprendizado de máquina e IA
-  * Automação de tarefas com Python
   * Programação em nuvem (como AWS, Azure ou Google Cloud)
+  * Arquitetura de Software
 
-Estou em busca de uma oportunidade de estágio ou primeiro emprego na área de tecnologia, onde eu possa contribuir e crescer profissionalmente.
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cs,git,github,html,css,js,mysql&perline=20" />
+<img src="https://skillicons.dev/icons?i=java,aws,angular,git,github,mysql,postgres,docker&perline=20" />
 </div>
 
 --------------
@@ -33,9 +31,7 @@ Estou em busca de uma oportunidade de estágio ou primeiro emprego na área de t
 
 ## Conquistas:
 
-* Certificado GCP
-* Certificado AWS Academy
-* Certifica AZ-900 (certificado pelo Senai, ainda não fiz a prova da microsoft)
+* Certificado Cloud Practitioner AWS 
 
 --------
 
